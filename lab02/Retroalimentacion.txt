@@ -1,0 +1,25 @@
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+
+4 Horas
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+
+El estado del laboratorio es Finalizado.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+
+el mayor logro del laboratorio fue utilizar de manera correcta las funciones que retornan otras funciones y entender como funcionaba el algoritmo de A* para el problema de las jarras ya que fue mucha informacion en un solo momento.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+
+no hubo como tal un problema tecnico grave, fue mas el salto de dificultad entre laboratorios que se noto y las nuevas funcines a utilizar
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+
+hacer el laboratorio con tiempo sin embargo, se pudo hacer mucho antes para tener la retroalimentacion del profe
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados. 
+
+https://www.haskell.org/documentation/
+www.google.com
+www.chaygpt.com
